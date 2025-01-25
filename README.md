@@ -4,7 +4,7 @@ Setup environment :
 
 > python -m venv myvenv
 
-> myvenv\Scripts\Activate
+> myvenv\Scripts\activate
 
 
 Dependencies to install :
